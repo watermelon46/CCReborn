@@ -1,7 +1,7 @@
 # CCReborn
 
 <p align=center>
-    <img src="logo.png"> <!--дабля потом пикчу загружу <--!>
+    <img src="logo.jpg"> <!--дабля потом пикчу загружу <--!>
 </p>
 ---
 
