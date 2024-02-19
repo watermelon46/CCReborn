@@ -5,7 +5,7 @@
 </p>
 ---
 
-**CookieClicker Reborn** это полный рекод <a href="https://github.com/watermelon46/CookieClicker>CookieClicker'a</a>
+**CookieClicker Reborn** это полный рекод <a href="https://github.com/watermelon46/CookieClicker">CookieClicker'a</a>
 с использованием colorama'ы и полной переделкой системы сохранений
 
 ## Отличия от CookieClicker Classic
