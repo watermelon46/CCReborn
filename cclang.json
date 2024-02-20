@@ -1,0 +1,25 @@
+{
+	"libNotFound": "Одной из обязательных библиотек нет. Попытка установки...",
+	"gameSaved": "{Style.RESET_ALL}{Fore.GREEN}Игра сохранена!{Style.RESET_ALL}",
+	"fileNotFound": "{Style.RESET_ALL}{Fore.RED}Файл сохранения не найден, создаем при помощи save...{Style.RESET_ALL}", 
+	"gameLoaded": "{Style.RESET_ALL}{Fore.GREEN}Игра загружена!{Style.RESET_ALL}",
+	"savefileNotFound": "{Style.RESET_ALL}{Fore.RED}Файл сохранения не найден, создаем при помощи save...{Style.RESET_ALL}",
+	"gameStarted": "{Fore.YELLOW}{Style.BRIGHT}CookieClicker {Style.RESET_ALL}{Fore.YELLOW}Reborn {Fore.RESET}v{config['ccVerInfo']} {config['ccVerType']}\n{Style.RESET_ALL}Пропиши help для просмотра списка команд\n{Style.BRIGHT}Нажми Enter, чтобы начать{Style.RESET_ALL}",
+	"isHardToTypeExit": "Разве трудно написать exit?",
+	"click": "{Fore.GREEN}{Style.BRIGHT}🍪 Клик! \n\nВаш баланс:\n {Style.RESET_ALL}{Fore.YELLOW}Печеньки: {Style.RESET_ALL}{player['cookies']}\n {Fore.YELLOW}Монетки: {Style.RESET_ALL}{player['coins']}\n {Fore.YELLOW}Арбузы: {Style.RESET_ALL}{player['watermelons']}\n {Fore.YELLOW}Бустеры: {Style.RESET_ALL}{player['boosters']}\n {Fore.YELLOW}Кликеры: {Style.RESET_ALL}{player['clickers']}",
+	"toClickerEnd": "{Fore.GREEN}{Style.BRIGHT}ℹ До конца кликера осталось {toClickerEnd} сек.",
+	"saveBeforeExit": "{Fore.RED}{Style.BRIGHT}Сохранить игру перед выходом? [Y/N]",
+	"cookieConverted": "{Fore.GREEN}{Style.BRIGHT}💱 Ваши печеньки были конвертированы в монетки ({cache}, с учетом арбузов)",
+	"ccHelp": "{Fore.GREEN}{Style.BRIGHT}ℹ Команды CookieClicker'а\n\n{Style.RESET_ALL}{Fore.YELLOW}help - {Style.RESET_ALL}это меню\n{Style.RESET_ALL}{Fore.YELLOW}exchange - {Style.RESET_ALL}обменять печеньки на монетки с курсом 100 печенек к 1 монетке\n{Style.RESET_ALL}{Fore.YELLOW}shop - {Style.RESET_ALL}магазин\n{Style.RESET_ALL}{Fore.YELLOW}clicker - {Style.RESET_ALL}запустить автокликер\n{Style.RESET_ALL}{Fore.YELLOW}save - {Style.RESET_ALL}сохранить игру\n{Style.RESET_ALL}{Fore.YELLOW}load - {Style.RESET_ALL}загрузить игру\n{Style.RESET_ALL}{Fore.YELLOW}exit - {Style.RESET_ALL}покинуть игру",
+	"restaringSysCompat": "{Fore.GREEN}{Style.BRIGHT}⏳ Перезагружаем SysCompat...{Style.RESET_ALL}",
+	"sysCompatRestarted": "{Fore.GREEN}{Style.BRIGHT}✔ SysCompat успешно перезагружен, но зачем?{Style.RESET_ALL}",
+	"shop": "{Fore.GREEN}{Style.BRIGHT}ℹ Магазин\nДля покупки введите код продукта\n{Style.RESET_ALL}{Fore.YELLOW}Бустер (1) - {Style.RESET_ALL}5 монет\n{Style.RESET_ALL}{Fore.YELLOW}Кликер (2) - {Style.RESET_ALL}10 монет\n{Style.RESET_ALL}{Fore.YELLOW}Арбуз (3) - {Style.RESET_ALL}20 монет\n{Style.RESET_ALL}"
+	"boosterBought": "{Fore.GREEN}{Style.BRIGHT}✔ Вы успешно купили 1 бустер!{Style.RESET_ALL}",
+	"clickerBought": "{Fore.GREEN}{Style.BRIGHT}✔ Вы успешно купили 1 кликер! Он работает 5 минут, для его включения напишите clicker{Style.RESET_ALL}",
+	"watermelonBought": "{Fore.GREEN}{Style.BRIGHT}✔ Вы успешно купили 1 арбуз!{Style.RESET_ALL}",
+	"notEnoughtCoins": "{Fore.YELLOW}{Style.BRIGHT}❌ Неверный код продукта или недостаточно монет!{Style.RESET_ALL}",
+	"youNotHaveClickers": "{Fore.YELLOW}{Style.BRIGHT}❌ У вас нет кликеров!{Style.RESET_ALL}",
+	"clickerLaunched": "{Fore.GREEN}{Style.BRIGHT}✔ Кликер запущен!{Style.RESET_ALL}",
+	"commandNotFound": "{Fore.YELLOW}{Style.BRIGHT}❌ Неизвестная команда! Напишите help для показа списка команд.{Style.RESET_ALL}",
+	"looksLikeAndroid": "{Style.RESET_ALL}{Fore.GREEN}🤔 Кажется, что вы используете Android!\nИспользовать Android'овскую файловую систему? [Y/N] {Style.RESET_ALL}"
+}
