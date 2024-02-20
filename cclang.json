@@ -21,5 +21,7 @@
 	"youNotHaveClickers": "{Fore.YELLOW}{Style.BRIGHT}❌ У вас нет кликеров!{Style.RESET_ALL}",
 	"clickerLaunched": "{Fore.GREEN}{Style.BRIGHT}✔ Кликер запущен!{Style.RESET_ALL}",
 	"commandNotFound": "{Fore.YELLOW}{Style.BRIGHT}❌ Неизвестная команда! Напишите help для показа списка команд.{Style.RESET_ALL}",
-	"looksLikeAndroid": "{Style.RESET_ALL}{Fore.GREEN}🤔 Кажется, что вы используете Android!\nИспользовать Android'овскую файловую систему? [Y/N] {Style.RESET_ALL}"
+	"looksLikeAndroid": "{Style.RESET_ALL}{Fore.GREEN}🤔 Кажется, что вы используете Android!\nИспользовать Android'овскую файловую систему? [Y/N] {Style.RESET_ALL}",
+	"langEngineRestarting": "Перезагружаем языковую систему...",
+	"langEngineRestarted": "{Fore.GREEN}{Style.BRIGHT}✔ Система локализаций перезагружена!{Style.RESET_ALL}"
 }
