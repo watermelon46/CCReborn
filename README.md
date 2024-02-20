@@ -1,8 +1,7 @@
-# CookieClicker Reborn
-
 <p align=center>
     <img src="logo.jpg"> <!--дабля потом пикчу загружу <--!>
 </p>
+    
 # CookieClicker Reborn
 
 **CookieClicker Reborn** это полный рекод <a href="https://github.com/watermelon46/CookieClicker">CookieClicker'a</a>
