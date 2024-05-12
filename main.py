@@ -128,9 +128,9 @@ while True:
 
         diff = int(round(time.time() * 1000)) - ACLastClick
 
-        if diff < 350:
+        if diff < 450:
             if ACCheatClicks < 4:
-                print(f'{Fore.GREEN + Style.BRIGHT}⚠️  •  Кликать можно раз в 350мсек! Не читери!{Style.RESET_ALL}')
+                print(f'{Fore.GREEN + Style.BRIGHT}⚠️  •  Кликать можно раз в 450мсек! Не читери!{Style.RESET_ALL}')
                 ACCheatClicks += 1
             else:
                 print(f'{Fore.RED + Style.BRIGHT}⚠️  •  Перестань спамить Enter! Игра таймаутнула тебя на 10 секунд, чтобы ты подумал о своем поведении.{Style.RESET_ALL}')
