@@ -111,7 +111,10 @@ while True:
         command = input(f'{Style.RESET_ALL + Style.BRIGHT}\n> {Style.RESET_ALL}')
     except KeyboardInterrupt:
         print('Тебе трудно прописать exit?')
-        os.system('pause')
+        if config['system'] != 'Windows':
+            input('Нажмите Enter для продолжения\n')
+        else:
+            os.system('pause')
     clear()
     if command == '':
         summaryClick = player['boosters'] + 1
